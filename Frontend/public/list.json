@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "title": "The Great Gatsby",
+      "description": "A classic novel of the Jazz Age exploring wealth, love, and tragedy.",
+      "category":"Free",
+      "price": 0,
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT90eMdZW5RxXQvQT_PzFm3PuTsqNw5rnTbfwINmiiyb7RrZwAdVEQfOamj1FTs8Ijjrz4&usqp=CAU"
+    },
+    {
+      "id": 2,
+      "title": "To Kill a Mockingbird",
+      "description": "A timeless story of racial injustice and childhood in the Deep South.",
+      "category":"Fiction",
+      "price": 12.50,
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT90eMdZW5RxXQvQT_PzFm3PuTsqNw5rnTbfwINmiiyb7RrZwAdVEQfOamj1FTs8Ijjrz4&usqp=CAU"
+    },
+    {
+      "id": 3,
+      "title": "1984",
+      "description": "A dystopian tale of a totalitarian regime and surveillance society.",
+      "category":"Free",
+      "price": 0,
+       "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT90eMdZW5RxXQvQT_PzFm3PuTsqNw5rnTbfwINmiiyb7RrZwAdVEQfOamj1FTs8Ijjrz4&usqp=CAU"
+    },
+    {
+      "id": 4,
+      "title": "Pride and Prejudice",
+      "description": "A beloved romantic comedy of manners set in Georgian England.",
+      "category":"Free",
+      "price": 0,
+ "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT90eMdZW5RxXQvQT_PzFm3PuTsqNw5rnTbfwINmiiyb7RrZwAdVEQfOamj1FTs8Ijjrz4&usqp=CAU"
+    },
+    {
+      "id": 5,
+      "title": "The Catcher in the Rye",
+      "description": "A story of teenage rebellion and self-discovery in postwar America.",
+      "category":"Fiction",
+      "price": 11.49,
+       "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT90eMdZW5RxXQvQT_PzFm3PuTsqNw5rnTbfwINmiiyb7RrZwAdVEQfOamj1FTs8Ijjrz4&usqp=CAU"
+    },
+    {
+      "id": 6,
+      "title": "The Alchemist",
+      "description": "An inspiring tale about following your dreams and finding your destiny.",
+      "price": 0,
+      "category": "Free",
+       "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT90eMdZW5RxXQvQT_PzFm3PuTsqNw5rnTbfwINmiiyb7RrZwAdVEQfOamj1FTs8Ijjrz4&usqp=CAU"
+    },
+    {
+      "id": 7,
+      "title": "The Hobbit",
+      "description": "A thrilling fantasy adventure in Middle-earth.",
+      "price": 15.99,
+      "category": "Fiction",
+       "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT90eMdZW5RxXQvQT_PzFm3PuTsqNw5rnTbfwINmiiyb7RrZwAdVEQfOamj1FTs8Ijjrz4&usqp=CAU"
+    },
+    {
+      "id": 8,
+      "title": "Atomic Habits",
+      "description": "A practical guide to building good habits and breaking bad ones.",
+      "price": 0,
+      "category": "Free",
+         "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT90eMdZW5RxXQvQT_PzFm3PuTsqNw5rnTbfwINmiiyb7RrZwAdVEQfOamj1FTs8Ijjrz4&usqp=CAU"
+    },
+    {
+      "id": 9,
+      "title": "The Art of War",
+      "description": "An ancient Chinese military treatise on strategy and leadership.",
+      "price": 0,
+      "category": "Free",
+       "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT90eMdZW5RxXQvQT_PzFm3PuTsqNw5rnTbfwINmiiyb7RrZwAdVEQfOamj1FTs8Ijjrz4&usqp=CAU"
+    }
+  ]
+  

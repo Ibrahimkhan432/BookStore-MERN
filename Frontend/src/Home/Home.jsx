@@ -1,15 +1,15 @@
 import React from 'react'
 import Navbar from '../components/Navbar'
 import Banner from '../components/Banner'
-import Facebook from '../components/Facebook'
 import { Footer } from '../components/Footer'
+import FreeBook from '../components/Freebook'
 
 const Home = () => {
   return (
     <div>
        <Navbar />
       <Banner />
-      <Facebook />
+      <FreeBook />
       <Footer/>
     </div>
   )
